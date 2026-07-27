@@ -19,9 +19,9 @@ To understand human problems before building technology.
 
 ## Current Status
 
-- ✅ Foundation Documentation Complete
-- 🚧 Building ATLAS
-- 🎯 Goal: 1,000 Human Frictions
+- Foundation Documentation Complete
+- Building ATLAS
+- Goal: 1,000 Human Frictions
 
 ---
 
