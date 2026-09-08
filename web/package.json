@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && npx pagefind --site out && xcopy /E /I /Y out\\pagefind public\\pagefind",
+    "build": "next build && npx pagefind --site out && node scripts/copy-search.js",
     "start": "next start",
     "lint": "eslint"
   },
