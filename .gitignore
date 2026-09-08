@@ -16,7 +16,7 @@ coverage/
 # next.js
 .next/
 out/
-public/pagefind/
+web/public/pagefind/
 
 # production
 build/
